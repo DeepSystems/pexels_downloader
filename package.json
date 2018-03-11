@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "axios": "0.17.1",
+    "bluebird": "3.5.1",
+    "cheerio": "1.0.0-rc.2",
+    "faker": "4.1.0",
+    "fs-extra": "5.0.0",
+    "lodash": "4.17.4",
+    "pretty-time": "0.2.0",
+    "toragent": "0.1.1",
+    "yargs": "10.1.1"
+  }
+}

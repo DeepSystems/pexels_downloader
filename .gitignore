@@ -1,0 +1,15 @@
+.idea
+node_modules
+/images
+/images1
+/images2
+/images3
+/images_bike
+/images_street_01
+/images_street_02
+/person_04
+/person_03
+run_debug_max.sh
+*.jpeg
+*.png
+*.jpg

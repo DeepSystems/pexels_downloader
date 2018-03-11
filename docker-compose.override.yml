@@ -1,0 +1,15 @@
+version: '2.3'
+
+services:
+  downloader:
+    command: >
+      --downloads 2
+      --count 2000
+      --timeout 10
+      --query person
+      --cache-dir /images/cache
+      --images-dir /images/result
+    volumes:
+      - ./new_dataset:/images/result
+      - ./dataset1:/images/cache/ds1
+      - ./dataset2:/images/cache/ds2

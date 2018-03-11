@@ -1,6 +1,8 @@
 # Pexels Downloader
 
-automatically download free images from Pexels.com to create training datasets
+Automatically download free images from Pexels.com to create training datasets.
+
+All downloaded images can be use only in according to Pexels licence. 
 
 ## Requirements
 * Docker

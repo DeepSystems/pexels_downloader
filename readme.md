@@ -1,4 +1,4 @@
-# Pexels Downloader
+# Pexels Downloader- 
 
 Automatically download free images from Pexels.com to create training datasets.
 
@@ -9,6 +9,9 @@ All downloaded images can be use only in according to Pexels licence.
 * Docker-compose
 
 ## How to use
+1. Visit https://www.pexels.com/search/downloader:/ 
+2. Use the download button next to each image 
+
 
 ### Clone repository and build docker image
 
